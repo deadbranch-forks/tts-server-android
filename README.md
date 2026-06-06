@@ -46,7 +46,7 @@ This project is adapted from the source by [jing332/tts-server-android](https://
 
 **Icons:**
 
-* Icons from <a href="https://www.flaticon.com/free-icons/female" title="female icons">Flaticat</a>
+* Icons from <a href="https://www.flaticon.com/free-icons/female" title="female icons">Flaticon</a>
 * Icons from [Alibaba IconFont](https://www.iconfont.cn/)
 * Icons from [Coolapk @沉默_9520](http://www.coolapk.com/u/25956307) — author of this app's icon
 
