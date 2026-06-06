@@ -1,8 +1,4 @@
-Other Resources:
 
-* <a href="https://www.flaticon.com/free-icons/female" title="female icons">Female icons created by popcornarts - Flaticon</a>
-* [Alibaba IconFont](https://www.iconfont.cn/)
-* [Coolapk @沉默_9520](http://www.coolapk.com/u/25956307) — author of this app's icon
 
 # Build Instructions
 
@@ -41,3 +37,25 @@ Building an Android project with Github Actions requires a signature, and the jk
    | ALIAS_PASSWORD | *the alias password* |
    | KEY_PASSWORD | *the password* |
    | KEY_STORE | *the contents of the `sign.jks.base64.txt` file generated earlier* |
+
+# Attribution
+
+**Original source:**
+
+This project is adapted from the source by [jing332/tts-server-android](https://github.com/jing332/tts-server-android).
+
+**Icons:**
+
+* Icons from <a href="https://www.flaticon.com/free-icons/female" title="female icons">Flaticat</a>
+* Icons from [Alibaba IconFont](https://www.iconfont.cn/)
+* Icons from [Coolapk @沉默_9520](http://www.coolapk.com/u/25956307) — author of this app's icon
+
+# MIT License
+
+Copyright 2026 The DeadBranches Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
